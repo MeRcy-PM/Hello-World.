@@ -1,4 +1,4 @@
 Hello-World.
 ============
 
-Welcome to github.
+Welcome to github. Only a tutorial for github.
